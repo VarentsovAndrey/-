@@ -24,7 +24,8 @@
 Планируется доделать вёрстку уже отдельно от команды и поработать над функциональностью сайта.
 
 
-[Ссылка на GitHub Pages] (https://varentsovandrey.github.io/BBBS/src/index.html)
+[Нажми сюда!](https://varentsovandrey.github.io/BBBS/src/index.html) 
+
 
 
 
